@@ -34,7 +34,7 @@ In this project we have used the following libraries:
 
  
 
- - [sqlalchemy](https://numpy.org/doc/stable/)
+ - [sqlalchemy](https://j2logo.com/python/sqlalchemy-tutorial-de-python-sqlalchemy-guia-de-inicio/)
 
  
 
